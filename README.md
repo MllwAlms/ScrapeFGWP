@@ -1,8 +1,8 @@
 # ScrapeFGWP
-## Free Games With Prime Scraper
+## Free Games With Prime Scraper with Python
 
 
-A simple scraper that returns a dictionary of currently free games (to keep) on Amazon Prime Gaming.
+A simple python scraper that returns a dictionary of currently free games (to keep) on Amazon Prime Gaming.
 
 ###### Usage: 
 ```
